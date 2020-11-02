@@ -92,6 +92,7 @@ SUPPORTED_TYPES = {
     0x4ead: (hysen, "HY02B05H", "Hysen"),
     0x4e4d: (dooya, "DT360E-45/20", "Dooya"),
     0x51e3: (bg1, "BG800/BG900", "BG Electrical"),
+    0x653a: (rm4, "RM4 mini", "Broadlink"),
 }
 
 
